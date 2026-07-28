@@ -4,13 +4,13 @@
 
 ### Results
 
-* `ICEI_Calculated.xlsx`
+* `CEI_Calculated.xlsx`
 
 ### Graphs
 
-* `Figure1_ICEI_Grouped_BarChart.png`
+* `Figure1_CEI_Grouped_BarChart.png`
 * `Figure2_Selected_Conference_Boxplot.png`
 
 ## Description
 
-These files contain the calculated IoT Conference Excellence Index (ICEI) results and the graphical visualizations generated for the evaluation and comparison of major IoT conferences presented in the research paper.
+These files contain the calculated Conference Excellence Index (CEI) results and the graphical visualizations generated for the evaluation and comparison of major IoT conferences presented in the research paper.
