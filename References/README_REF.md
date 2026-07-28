@@ -1,6 +1,6 @@
 # References
 
-This research is based on established bibliometric and scientometric literature related to conference evaluation, citation analysis, and research impact assessment. The following references provided the theoretical foundation for the proposed IoT Conference Excellence Index (ICEI).
+This research is based on established bibliometric and scientometric literature related to conference evaluation, citation analysis, and research impact assessment. The following references provided the theoretical foundation for the proposed Conference Excellence Index (CEI).
 
 ## References
 
