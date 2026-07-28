@@ -1,10 +1,10 @@
-# Scientific Practice Research Paper on ICEI
+# Scientific Practice Research Paper on CEI
 
 ## Overview
 
 This repository contains the datasets, reference materials, Python programs, generated results, graphical visualizations, and research paper developed for Scientific Practice Assignment 5 at the University of Bremen.
 
-The project proposes the **IoT Conference Excellence Index (ICEI)**, a multi-dimensional framework for evaluating and ranking major Internet of Things (IoT) conferences using bibliometric indicators collected from conference proceedings published during 2023 and 2024.
+The project proposes the **Conference Excellence Index (CEI)**, a multi-dimensional framework for evaluating and ranking major Internet of Things (IoT) conferences using bibliometric indicators collected from conference proceedings published during 2023 and 2024.
 
 ---
 
@@ -61,7 +61,7 @@ Additional details are available in: [README_REF.md](References/README_REF.md)
 
 ### datasets
 
-Contains the consolidated dataset used for conference evaluation, normalization, ICEI score computation, and statistical analysis.
+Contains the consolidated dataset used for conference evaluation, normalization, CEI score computation, and statistical analysis.
 
 Files:
 
@@ -73,7 +73,7 @@ Additional details are available in: [README_DATASET.md](datasets/README_DATASET
 
 ### programs_for_graphs_generation
 
-Contains the Python programs used to generate the conference rankings, ICEI calculations, and graphical visualizations presented in the paper.
+Contains the Python programs used to generate the conference rankings, CEI calculations, and graphical visualizations presented in the paper.
 
 Files:
 
@@ -90,8 +90,8 @@ Contains the generated outputs obtained from the analysis and visualization scri
 
 Files:
 
-* ICEI_Calculated.xlsx
-* Figure1_ICEI_Grouped_BarChart.png
+* CEI_Calculated.xlsx
+* Figure1_CEI_Grouped_BarChart.png
 * Figure2_Selected_Conference_Boxplot.png
 
 Additional details are available in: [README_RESULTS.md](results_graphs/README_RESULTS.md)
