@@ -4,20 +4,20 @@
 
 This directory contains the Python scripts used to generate the visualizations presented in the research paper:
 
-**"IoT Conference Excellence Index (ICEI): A Multi-Dimensional Framework for Evaluating IoT Conferences"**
+**"Conference Excellence Index (CEI): A Multi-Dimensional Framework for Evaluating IoT Conferences"**
 
 The figures provide graphical insights into conference quality, citation performance, and comparative rankings across major IoT conferences published during 2023 and 2024.
 
 ---
-## Figure 1: ICEI Grouped Bar Chart
+## Figure 1: CEI Grouped Bar Chart
 
 ### Script
 
-`main_ICEI_bar_chart.py`
+`main_CEI_bar_chart.py`
 
 ### Purpose
 
-This script calculates the IoT Conference Excellence Index (ICEI) for all evaluated conference editions and visualizes the results using a grouped bar chart.
+This script calculates the Conference Excellence Index (CEI) for all evaluated conference editions and visualizes the results using a grouped bar chart.
 
 ### Input Data
 
@@ -32,9 +32,9 @@ Required metrics:
 * Collaboration Score
 * Visual Communication Score
 
-### ICEI Formula
+### CEI Formula
 
-ICEI = 0.50 × Citation Impact
+CEI = 0.50 × Citation Impact
 
 * 0.15 × Diversity
 
@@ -46,22 +46,22 @@ ICEI = 0.50 × Citation Impact
 
 ### Outputs
 
-#### 1. ICEI Results File
+#### 1. CEI Results File
 
-`ICEI_Calculated.xlsx`
+`CEI_Calculated.xlsx`
 
 Contains:
 
 * Conference Name
 * Conference Year
 * Individual component scores
-* Calculated ICEI score
+* Calculated CEI score
 
-#### 2. ICEI Visualization
+#### 2. CEI Visualization
 
-`Figure1_ICEI_Grouped_BarChart.png`
+`Figure1_CEI_Grouped_BarChart.png`
 
-Grouped bar chart comparing ICEI scores across conference editions.
+Grouped bar chart comparing CEI scores across conference editions.
 
 ### Interpretation
 
@@ -160,9 +160,9 @@ pip install pandas numpy matplotlib openpyxl
 
 | Figure       | Output File                             | Description                        |
 | ------------ | --------------------------------------- | ---------------------------------- |
-| Figure 1     | Figure1_ICEI_Grouped_BarChart.png       | ICEI comparison across conferences |
+| Figure 1     | Figure1_CEI_Grouped_BarChart.png        | CEI comparison across conferences  |
 | Figure 2     | Figure2_Selected_Conference_Boxplot.png | Citation distribution analysis     |
-| Table Output | ICEI_Calculated.xlsx                    | Computed ICEI scores               |
+| Table Output | CEI_Calculated.xlsx                     | Computed CEI scores                |
 
 ---
 
