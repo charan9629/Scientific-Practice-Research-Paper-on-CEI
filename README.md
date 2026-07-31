@@ -18,8 +18,8 @@ Scientific_Practice_Assignment_5_Research_Paper/
 │   ├── reference_1.pdf
 │   ├── reference_2.pdf
 │   ├── reference_3.pdf
-│   ├── reference_4.pdf
-│   └── reference_5.pdf
+│   └── reference_4.pdf
+│   
 │
 ├── datasets/
 │   ├── Organised_Data_Sets.xlsx
@@ -27,13 +27,13 @@ Scientific_Practice_Assignment_5_Research_Paper/
 │
 ├── programs_for_graphs_generation/
 │   ├── README_GRAPH.md
-│   ├── main_ICEI_bar_chart.py
+│   ├── main_CEI_bar_chart.py
 │   └── main_citations_box_plot.py
 │
 ├── results_graphs/
-│   ├── Figure1_ICEI_Grouped_BarChart.png
+│   ├── Figure1_CEI_Grouped_BarChart.png
 │   ├── Figure2_Selected_Conference_Boxplot.png
-│   ├── ICEI_Calculated.xlsx
+│   ├── CEI_Calculated.xlsx
 │   └── README_RESULTS.md
 │
 └── README.md
@@ -53,7 +53,6 @@ Files:
 * reference_2.pdf
 * reference_3.pdf
 * reference_4.pdf
-* reference_5.pdf
 
 Additional details are available in: [README_REF.md](References/README_REF.md)
 
@@ -77,7 +76,7 @@ Contains the Python programs used to generate the conference rankings, CEI calcu
 
 Files:
 
-* main_ICEI_bar_chart.py
+* main_CEI_bar_chart.py
 * main_citations_box_plot.py
 
 Additional details are available in: [README_GRAPH.md](programs_for_graphs_generation/README_GRAPH.md)

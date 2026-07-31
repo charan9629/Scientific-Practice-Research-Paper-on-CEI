@@ -65,7 +65,7 @@ Grouped bar chart comparing CEI scores across conference editions.
 
 ### Interpretation
 
-* Higher ICEI values indicate superior overall conference quality.
+* Higher CEI values indicate superior overall conference quality.
 * Enables comparison of conference performance across multiple quality dimensions.
 * Provides the primary ranking used for hypothesis validation.
 
